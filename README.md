@@ -12,7 +12,7 @@ A modern, responsive web presentation showcasing La Clinica's proven medical par
 
 ## Live Demo
 
-Visit the live site: [https://yourusername.github.io/LaClinica](https://yourusername.github.io/LaClinica)
+Visit the live site: [https://gmyoung.github.io/LaClinica](https://gmyoung.github.io/LaClinica)
 
 ## Technologies Used
 
